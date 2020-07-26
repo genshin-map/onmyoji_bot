@@ -4,46 +4,46 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/AcademicDog/myresource/master/usage.png" alt="copy URL to clipboard" />
 
-本工具用于阴阳师代肝，为各位阴阳师大佬养老护肝所用。
+Công cụ này được sử dụng bởi Onmyoji Master để thay thế sức khỏe và được Onmyoji Master sử dụng để bảo vệ sức khỏe.
 
-目前已开通项目网站，请访问🌍[此地址](https://academicdog.github.io/onmyoji_bot/)获取最新信息。
+Trang web của dự án đã được mở, vui lòng truy cập🌍[Địa chỉ này](https://academicdog.github.io/onmyoji_bot/) Nhận thông tin mới nhất.
 
-同时请访问🌍[此地址](https://doc.onmyojibot.com/zh/latest/)查看用法。
+Ngoài ra vui lòng truy cập🌍[Địa chỉ này](https://doc.onmyojibot.com/zh/latest/) Xem sử dụng.
 
-# 紧急通知
+# Thông báo về quyền lực
 
 ```diff
-+ 目前纯桌面版已经不太安全，已收到多个封号通知(正在统计，大部分人用的纯桌面版），如果实在要用，请至少带上沙盒或模拟器，用法见说明3.4和5.1章。
-- 目前纯桌面版已经不太安全，已收到多个封号通知(正在统计，大部分人用的纯桌面版），如果实在要用，请至少带上沙盒或模拟器，用法见说明3.4和5.1章。
++ Hiện tại, phiên bản máy tính để bàn không an toàn lắm. Tôi đã nhận được nhiều thông báo (phiên bản máy tính để bàn được hầu hết mọi người sử dụng). Nếu bạn thực sự muốn sử dụng nó, vui lòng ít nhất mang theo hộp cát hoặc trình giả lập. Để sử dụng, hãy xem hướng dẫn 3.4 và Chương 5.1.
+- Hiện tại, phiên bản máy tính để bàn không an toàn lắm. Tôi đã nhận được nhiều thông báo (phiên bản máy tính để bàn được hầu hết mọi người sử dụng). Nếu bạn thực sự muốn sử dụng nó, vui lòng ít nhất mang theo hộp cát hoặc trình giả lập. Để sử dụng, hãy xem hướng dẫn 3.4 và Chương 5.1.
 ```
 
-# 特别感谢
+# Trân trọng cảm ơn
 
-特别感谢society765在本项目中给与的启发，本项目在其[工作基础](https://github.com/society765/yys-auto-yuhun)上修改完成。
+Đặc biệt cảm ơn society765 vì nguồn cảm hứng được đưa ra trong dự án này. [Cơ sở làm việc](https://github.com/society765/yys-auto-yuhun)Việc sửa đổi đã hoàn thành
 
-同时感谢sup817ch的图像识别思路，本项目game_ctl模块基于其[工作基础](https://github.com/sup817ch/AutoOnmyoji)。
+Dù sao cũng cảm ơn sup817ch Ý tưởng nhận dạng hình ảnh, dự án này game_ctl Các mô-đun được dựa trên[Cơ sở làm việc](https://github.com/sup817ch/AutoOnmyoji)。
 
-感谢壁咚咚咚咚咚、Tree.提供的技术指导，感谢Abc为本程序提供了应用图标。
+Cảm ơn 咚咚咚咚咚、Tree.Cung cấp hướng dẫn kỹ thuật, cảm ơn Abc đã cung cấp các biểu tượng ứng dụng cho chương trình này.
 
-感谢以下人员为测试工作做出的努力：鼠白小验实，忒修斯之旅，Garry，DD斩首, 暖。
+Cảm ơn những người sau đây đã làm việc chăm chỉ cho bài kiểm tra: bài kiểm tra chuột trắng, hành trình của Theseus,，Garry，DD chặt đầu, ấm áp.
 
-# 注意事项
+# Các biện pháp phòng ngừa
 
-环境：python 3.7, 32 bit；yys PC端 默认分辨率 (1136x640)；yys MuMu模拟器 分辨率（1136x640）；win 10系统，屏幕(1920x1080)。
+Môi trường: python 3.7, 32 bit; độ phân giải mặc định của thiết bị đầu cuối PC (1136x640); độ phân giải giả lập MuMu của yys (1136x640); hệ thống win 10, màn hình (1920x1080).
 
-1.  窗口现在可以完全后台，可以被遮挡，但是**不能最小化**。
+1.  Bây giờ cửa sổ có thể hoàn toàn nền và có thể bị chặn, nhưng**Không thể được thu nhỏ**。
 
-1.  游戏精细画质，不要开启游戏中的“模型描边”。
+1.  Đồ họa đẹp của trò chơi, không bật "đột quỵ mô hình" trong trò chơi.
 
-1.  当使用高分辨率屏幕时，在阴阳师客户端程序兼容性选项里，不要勾选“替代高DPI缩放行为”，这个选项应该是默认不勾选的。
+1.  Khi sử dụng màn hình độ phân giải cao, trong tùy chọn tương thích chương trình máy khách Onmyoji, không kiểm tra "Thay thế hành vi chia tỷ lệ DPI cao", tùy chọn này phải được bỏ chọn theo mặc định.
 
-1.  如果不想安装运行环境，可以访问下载最新已[编译](https://github.com/AcademicDog/onmyoji_bot/releases)版本，该版本有图形界面，同时注意.exe文件和/img文件夹应该放在同一目录后再运行。
+1.  Nếu bạn không muốn cài đặt môi trường hoạt động, bạn có thể tải xuống bản mới nhất[Biên dịch](https://github.com/AcademicDog/onmyoji_bot/releases)Phiên bản, phiên bản này có giao diện đồ họa và lưu ý rằng tệp .exe và thư mục / img nên được đặt trong cùng thư mục trước khi chạy.
 
-# 更新说明
-更新日志请点击[这里](https://github.com/AcademicDog/onmyoji_bot/blob/master/CHANGELOG.md)
+# Ghi chú phát hành
+Nhấn vào đây để cập nhật nhật ký[Đây](https://github.com/AcademicDog/onmyoji_bot/blob/master/CHANGELOG.md)
 
-# 协议 (License)
+# Giao thức (License)
 
-该源代码使用了 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 开源协议。
+Mã nguồn này sử dụng [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) Thỏa thuận nguồn mở.
 
-This project is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
+Dự án này được cấp phép theo [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
