@@ -37,7 +37,7 @@ Môi trường: python 3.7, 32 bit; độ phân giải mặc định của thi�
 
 1.  Khi sử dụng màn hình độ phân giải cao, trong tùy chọn tương thích chương trình máy khách Onmyoji, không kiểm tra "Thay thế hành vi chia tỷ lệ DPI cao", tùy chọn này phải được bỏ chọn theo mặc định.
 
-1.  Nếu bạn không muốn cài đặt môi trường hoạt động, bạn có thể tải xuống bản mới nhất[Biên dịch](https://github.com/AcademicDog/onmyoji_bot/releases)Phiên bản, phiên bản này có giao diện đồ họa và lưu ý rằng tệp .exe và thư mục / img nên được đặt trong cùng thư mục trước khi chạy.
+1.  Nếu bạn không muốn cài đặt môi trường hoạt động, bạn có thể tải xuống bản mới nhất[Biên dịch](https://github.com/bcat95/onmyoji_bot/releases/)Phiên bản, phiên bản này có giao diện đồ họa và lưu ý rằng tệp .exe và thư mục / img nên được đặt trong cùng thư mục trước khi chạy.
 
 # Ghi chú phát hành
 Nhấn vào đây để cập nhật nhật ký[Đây](https://github.com/AcademicDog/onmyoji_bot/blob/master/CHANGELOG.md)
