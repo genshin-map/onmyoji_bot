@@ -1,6 +1,6 @@
 # Chào mừng
 
-[![GitHub release](https://img.shields.io/github/release/academicdog/onmyoji_bot)](https://github.com/AcademicDog/onmyoji_bot/releases) ![GitHub top language](https://img.shields.io/github/languages/top/academicdog/onmyoji_bot) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/academicdog/onmyoji_bot)  ![GitHub repo size](https://img.shields.io/github/repo-size/academicdog/onmyoji_bot)    ![GitHub](https://img.shields.io/github/license/academicdog/onmyoji_bot)   ![platforms](https://img.shields.io/badge/platform-win32|win64-brightgreen.svg) [![GitHub issues](https://img.shields.io/github/issues/academicdog/onmyoji_bot.svg)](https://github.com/academicdog/onmyoji_bot/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed/academicdog/onmyoji_bot.svg)](https://github.com/academicdog/onmyoji_bot/issues?q=is:issue+is:closed)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/academicdog/onmyoji_bot)  ![GitHub contributors](https://img.shields.io/github/contributors/academicdog/onmyoji_bot.svg)
+[![GitHub release](https://raw.githubusercontent.com/bcat95/onmyoji_bot/18700071a0fa9811e85782941ade7145809db991/release.svg)](https://github.com/bcat95/onmyoji_bot/releases/) ![GitHub top language](https://img.shields.io/github/languages/top/academicdog/onmyoji_bot)
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/bcat95/onmyoji_bot/master/ui.png" alt="copy URL to clipboard" />
 
