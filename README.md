@@ -25,9 +25,14 @@ Onmyoji steam độ phân giải mặc định. Độ phân giải giả lập N
 
 1.  Công cụ có thể chạy nền nhưng **Không thể bị thu nhỏ**.
 
+# Demo
+
+<img align="right" src="https://nhatkythuthuat.com/attachments/1595860618928-png.214/" alt="Auto Farm onmyoji" />
+Video: https://www.youtube.com/watch?v=kUbU72w8q0s
+
 # Ghi chú phát hành
 
-Nhấn vào đây để cập nhật nhật ký[Đây](https://github.com/bcat95/onmyoji_bot/blob/master/CHANGELOG.md)
+Nhấn vào đây để cập nhật nhật ký [Đây](https://github.com/bcat95/onmyoji_bot/blob/master/CHANGELOG.md)
 
 # Giao thức (License)
 
