@@ -2,7 +2,7 @@
 
 [![GitHub release](https://raw.githubusercontent.com/bcat95/onmyoji_bot/18700071a0fa9811e85782941ade7145809db991/release.svg)](https://github.com/bcat95/onmyoji_bot/releases/) ![GitHub top language](https://img.shields.io/github/languages/top/academicdog/onmyoji_bot)
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/bcat95/onmyoji_bot/master/ui_en.pngg" alt="Auto onmyoji" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/bcat95/onmyoji_bot/master/ui_en.png" alt="Auto onmyoji" />
 
 Công cụ này giúp người chơi Onmyoji Global.
 
