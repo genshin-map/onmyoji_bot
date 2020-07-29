@@ -4,7 +4,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/bcat95/onmyoji_bot/master/ui.png" alt="copy URL to clipboard" />
 
-Công cụ này giúp người chơi Onmyoji tự động hóa nhiệm vụ Đi ngự, thức tỉnh, Si trận, Thám hiểm trong game Onmyoji Global
+Công cụ này giúp người chơi Onmyoji Global.
 
 Diễn đàn mở, vui lòng truy cập🌍[Địa chỉ này](https://nhatkythuthuat.com/threads/13441/) Nhận thông tin mới nhất.
 
